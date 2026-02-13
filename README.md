@@ -1,8 +1,7 @@
 # 🛠️ Virtualization & Security Architecture
 
 Welcome to the **Virtualization & Security** deep-dive. This repository is the blueprint for building a high-performance, isolated laboratory where you can tear things apart without breaking your main machine.<br>
-![Virtualization Banner](https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Virtualization%20%26%20Security&fontSize=50)
-
+![Virtualization Banner](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Virtualization%20%26%20Security&fontSize=50)
 <h2>1. Deep Dive: Virtualization Architecture</h2>
 
 When you run a VM on Windows, you aren't just running a program; you are managing a **Hypervisor**. Since you are using Windows as your host, you are likely using a **Type-2 Hypervisor** (like VMware or VirtualBox).
