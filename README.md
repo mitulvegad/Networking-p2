@@ -1,9 +1,8 @@
 # 🛠️ Virtualization & Security Architecture
 
-Welcome to the **Virtualization & Security** deep-dive. This repository is the blueprint for building a high-performance, isolated laboratory where you can tear things apart without breaking your main machine.
+Welcome to the **Virtualization & Security** deep-dive. This repository is the blueprint for building a high-performance, isolated laboratory where you can tear things apart without breaking your main machine.<br>
 
-![Virtualization Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Virtualization%20%26%20Security&fontSize=50)
-
+![Virtualization Banner](https://capsule-render.vercel.app/render?type=soft&color=00d2ff&height=200&section=header&text=Virtualization%20%26%20Security&fontSize=50)
 ---
 
 <h2>1. Deep Dive: Virtualization Architecture</h2>
