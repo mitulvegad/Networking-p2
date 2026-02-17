@@ -9,7 +9,7 @@ When you run a VM on Windows, you aren't just running a program; you are managin
 
 
 
-### **Resource Allocation Strategy**
+### **Resource Allocation Strategy** ###
 To keep your host system from lagging, you must master the math of allocation:
 
 * **CPU Overcommitment:** Modern CPUs use Hyper-threading. If your CPU has 4 physical cores and 8 threads, the hypervisor sees 8 "Logical Processors."
